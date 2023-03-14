@@ -1,4 +1,4 @@
-import { Button, Card, CardActions, CardContent, Typography, CardMedia } from '@mui/material';
+import { Button, Card, CardActions, CardContent, Typography, CardMedia, makeStyles } from '@mui/material';
 import React from 'react';
 
 
@@ -12,12 +12,12 @@ export default function CustomCard(props) {
         <Card variant='outlined' key={props.project.id}>
             <React.Fragment>
                 <CardContent>
-                    {/* <CardMedia
+                    <CardMedia
                         component="img"
                         height="194"
                         image={props.project.image}
                         alt="Paella dish"
-                    /> */}
+                    />
                     <Typography variant="h5" component="div">
                         {props.project.title}
                     </Typography>

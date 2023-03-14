@@ -1,14 +1,16 @@
+import { Container } from '@mui/system';
 import React from 'react';
 
-class HomePage extends React.Component {
+export default function Homepage() {
 
-  render() {
-    return (
-      <>
-        <h1>this is HomePage</h1>
-      </>
-    );
-  }
+  return (
+    <>
+      <Container className='profile'>
+        <h1>Laura Yuen</h1>
+        <img className='profile-img' src="IMG_8620.jpg" alt="profile pic" />
+
+      </Container>
+
+    </>
+  );
 }
-
-export default HomePage;
