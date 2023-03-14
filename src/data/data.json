@@ -38,5 +38,13 @@
         "url": "https://laurabbity915.github.io/Password-Generator/",
         "github": "https://github.com/laurabbity915/Password-Generator",
         "desc": "In this challenge we try to use Javascript to create a password generator.I try to add checkbox on html and the html number input object."
+    },
+    {
+        "id": 6,
+        "title": "Quiz Game",
+        "image": "",
+        "url": "https://laurabbity915.github.io/challenge6_Quiz_Game/",
+        "github": "https://github.com/laurabbity915/challenge6_Quiz_Game",
+        "desc": "In this project I try to develop a Quiz game by using java script to let the answer shows randomly and I set a countdown timer. And this quiz game have the high score page and store the high score at the local stroage."
     }
 ]
