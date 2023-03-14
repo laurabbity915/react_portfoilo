@@ -2,33 +2,33 @@
     {
         "id": 1,
         "title": "First Project by using html and CSS",
-        "image": "first-clone-project.png",
-        "url" : "https://laurabbity915.github.io/challenge-module-1/",
-        "github" : "https://github.com/laurabbity915/challenge-module-1",
-        "desc" : "Clone a one page website by using html and CSS."
+        "image": "https://raw.githubusercontent.com/laurabbity915/react_portfoilo/gh-pages/first-clone-project.png",
+        "url": "https://laurabbity915.github.io/challenge-module-1/",
+        "github": "https://github.com/laurabbity915/challenge-module-1",
+        "desc": "Clone a one page website by using html and CSS."
     },
     {
         "id": 2,
         "title": " My Portfolio made with Html and CSS",
         "image": "my-portfolio-html-css.png",
-        "url" : "https://laurabbity915.github.io/My-Portfolio/",
-        "github" : "https://github.com/laurabbity915/My-Portfolio",
-        "desc" : "Portfolio website made with html and CSS."
+        "url": "https://laurabbity915.github.io/My-Portfolio/",
+        "github": "https://github.com/laurabbity915/My-Portfolio",
+        "desc": "Portfolio website made with html and CSS."
     },
     {
         "id": 3,
         "title": " My Portfolio made with Bootstrap",
-        "image": "my-portfolio-bootstrap.png",
-        "url" : "https://laurabbity915.github.io/Bootstrap-Portfolio/",
-        "github" : "https://github.com/laurabbity915/Bootstrap-Portfolio",
-        "desc" : "UI designed by me and first time to learn bootstrap"
+        "image": "https://raw.githubusercontent.com/laurabbity915/react_portfoilo/gh-pages/my-portfolio-html-css.png",
+        "url": "https://laurabbity915.github.io/Bootstrap-Portfolio/",
+        "github": "https://github.com/laurabbity915/Bootstrap-Portfolio",
+        "desc": "UI designed by me and first time to learn bootstrap"
     },
     {
         "id": 4,
         "title": "Console-Finances",
-        "image": "Console-Finances.png",
-        "url" : "https://laurabbity915.github.io/Console-Finances/",
-        "github" : "https://github.com/laurabbity915/Console-Finances",
-        "desc" : "open the console.log and you can see the calculations!"
+        "image": "https://raw.githubusercontent.com/laurabbity915/react_portfoilo/gh-pages/first-clone-project.png",
+        "url": "https://laurabbity915.github.io/Console-Finances/",
+        "github": "https://github.com/laurabbity915/Console-Finances",
+        "desc": "open the console.log and you can see the calculations!"
     }
 ]
