@@ -7,7 +7,7 @@ export default function NarBar() {
 
   return (
     <nav className="nav">
-      <Link className="site-title" to="/">Home</Link>
+      <Link className="site-title" to="/react_portfoilo">Home</Link>
       <ul>
         <li>
           <Link to="/project-page">Project</Link>
