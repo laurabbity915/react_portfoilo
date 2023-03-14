@@ -13,7 +13,7 @@ function App() {
       <div className="App">
         <Header></Header>
         <Routes>
-          <Route path='/' index element={<HomePage />} />
+          <Route path='/react_portfoilo' index element={<HomePage />} />
           <Route path='/project-page' element={<ProjectPage />} />
           <Route path='/project-page/:id' element={<Project />} />
           <Route path='/contact-page' element={<ContactPage />} />
