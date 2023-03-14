@@ -40,6 +40,15 @@
 }
 
 .profile-img {
-  height: 50%;
-  width: 50%;
+  height: 20vh;
+  width: 20vh;
+  margin-bottom: 1rem;
+}
+
+.indication {
+  margin-bottom: 2rem;
+}
+
+.brandStatement {
+  margin-bottom: 2rem;
 }

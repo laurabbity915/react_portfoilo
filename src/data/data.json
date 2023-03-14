@@ -30,5 +30,13 @@
         "url": "https://laurabbity915.github.io/Console-Finances/",
         "github": "https://github.com/laurabbity915/Console-Finances",
         "desc": "open the console.log and you can see the calculations!"
+    },
+    {
+        "id": 5,
+        "title": "Password Generator",
+        "image": "",
+        "url": "https://laurabbity915.github.io/Password-Generator/",
+        "github": "https://github.com/laurabbity915/Password-Generator",
+        "desc": "In this challenge we try to use Javascript to create a password generator.I try to add checkbox on html and the html number input object."
     }
 ]
