@@ -1,18 +1,23 @@
-import { Button, Card, CardActions, CardContent, Typography } from '@mui/material';
+import { Button, Card, CardActions, CardContent, Typography, CardMedia } from '@mui/material';
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+
 
 
 export default function CustomCard(props) {
 
-    const navigate = useNavigate();
-    const handleOnClick = (project) => navigate(`/project-page/${project.id}`, { state: { project: project } });
 
+    console.log(props);
 
     return (
         <Card variant='outlined' key={props.project.id}>
             <React.Fragment>
                 <CardContent>
+                    {/* <CardMedia
+                        component="img"
+                        height="194"
+                        image={props.project.image}
+                        alt="Paella dish"
+                    /> */}
                     <Typography variant="h5" component="div">
                         {props.project.title}
                     </Typography>
@@ -21,7 +26,7 @@ export default function CustomCard(props) {
                     </Typography>
                 </CardContent>
                 <CardActions>
-                    <Button size="small" onClick={() => handleOnClick(props.project)}>Learn More</Button>
+                    <Button size="small" onClick={() => props.handleOnClick(props.project)}>Learn More</Button>
                 </CardActions>
             </React.Fragment>
         </Card>

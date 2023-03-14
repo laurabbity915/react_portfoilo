@@ -1,14 +1,22 @@
 [
     {
         "id": 1,
-        "title": "project 1",
+        "title": "First Project by using html and CSS",
+        "image": 
         "url" : "https://laurabbity915.github.io/challenge-module-1/",
         "github" : "https://github.com/laurabbity915/challenge-module-1",
-        "desc" : "some desc"
+        "desc" : "Clone a one page website by using html and CSS."
     },
     {
         "id": 2,
-        "title": " My Portfolio",
+        "title": " My Portfolio made with Html and CSS",
+        "url" : "https://laurabbity915.github.io/My-Portfolio/",
+        "github" : "https://github.com/laurabbity915/My-Portfolio",
+        "desc" : "some desc"
+    },
+    {
+        "id": 3,
+        "title": " My Portfolio3",
         "url" : "https://laurabbity915.github.io/My-Portfolio/",
         "github" : "https://github.com/laurabbity915/My-Portfolio",
         "desc" : "some desc"
