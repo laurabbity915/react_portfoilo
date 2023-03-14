@@ -1,7 +1,7 @@
 {
   "name": "challenge_13_react_portfoilo",
   "version": "0.1.0",
-  "homepage": "https://laurabbity915.github.com/react_portfoilo",
+  "homepage": "https://laurabbity915.github.com",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
