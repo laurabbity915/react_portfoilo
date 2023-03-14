@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": " My Portfolio made with Html and CSS",
-        "image": "my-portfolio-html-css.png",
+        "image": "https://raw.githubusercontent.com/laurabbity915/react_portfoilo/gh-pages/my-portfolio-html-css.png",
         "url": "https://laurabbity915.github.io/My-Portfolio/",
         "github": "https://github.com/laurabbity915/My-Portfolio",
         "desc": "Portfolio website made with html and CSS."
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "title": " My Portfolio made with Bootstrap",
-        "image": "https://raw.githubusercontent.com/laurabbity915/react_portfoilo/gh-pages/my-portfolio-html-css.png",
+        "image": "https://raw.githubusercontent.com/laurabbity915/react_portfoilo/main/public/my-portfolio-bootstrap.png",
         "url": "https://laurabbity915.github.io/Bootstrap-Portfolio/",
         "github": "https://github.com/laurabbity915/Bootstrap-Portfolio",
         "desc": "UI designed by me and first time to learn bootstrap"
