@@ -18,7 +18,7 @@ function ContactForm() {
     <>
       <Container>
         <Container className='contact-field'>
-          <a href='mailto:laura_yuen915@outlook.com'> Email </a>
+          <a href='mailto:laura_yuen915@outlook.com' target='_blank' rel="noreferrer"> Email </a>
           <a href='https://www.linkedin.com/in/laura-yuen-b24a2214a/' target='_blank' rel="noreferrer"> Linkedin </a>
           <a href='https://github.com/laurabbity915' target='_blank' rel="noreferrer"> Github </a>
           <a href='https://drive.google.com/file/d/1K_Yf7gZEh0CZOuSEW0FNzTycKXZILFAk/view?usp=sharing' target='_blank' rel="noreferrer"> CV </a>

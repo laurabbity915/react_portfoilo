@@ -82,5 +82,10 @@
 }
 
 .contact-field {
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.contact-field a {
+  margin-right: 1rem;
 }
