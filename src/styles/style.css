@@ -77,6 +77,10 @@
   margin-top: 20px;
 }
 
-.text-field{
+.text-field {
   margin-bottom: .25rem;
+}
+
+.contact-field {
+  margin-bottom: 1rem;
 }
