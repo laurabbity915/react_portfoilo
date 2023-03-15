@@ -14,7 +14,7 @@ export default function ProjectPage() {
     <Container>
       {
         projects.map((project) =>
-          <CustomCard {...{ project, handleOnClick }} />
+          <CustomCard {...{ project, handleOnClick }}/>
         )
       }
 
