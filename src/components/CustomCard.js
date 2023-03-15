@@ -5,9 +5,6 @@ import React from 'react';
 
 export default function CustomCard(props) {
 
-
-    console.log(props);
-
     return (
         <Card variant='outlined' className='custom-card-layout' key={props.project.id}>
             <React.Fragment>
