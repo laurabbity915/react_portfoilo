@@ -52,3 +52,31 @@
 .brandStatement {
   margin-bottom: 2rem;
 }
+
+.projectDetails {
+  margin-bottom: 2rem;
+}
+
+.project-image {
+  height: 30vh;
+  width: 100%;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.MuiFormControl-root {
+  margin-bottom: 20px;
+}
+
+.MuiButton-root {
+  margin-top: 20px;
+}
+
+.text-field{
+  margin-bottom: .25rem;
+}
